@@ -2,7 +2,7 @@
 ______________________________________________
 Ruby language parser written in yacc and flex. 
 ______________________________________________
-# BY Students St. Petersburg Polytechnic University Petra Velikogo
+# Students St. Petersburg Polytechnic University Petra Velikogo
 
 
 ```
